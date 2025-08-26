@@ -1,5 +1,5 @@
 # EVIDENCIAS_COMANDOS
-	![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+✅⚠️✨❌🌐⚙️🛠️🔒👤
 <img width="1920" height="1080" alt="1" src="https://github.com/user-attachments/assets/bdc90d6f-221b-4f4d-8e16-7a3c23677cb9" />
 
 <img width="1920" height="1080" alt="2" src="https://github.com/user-attachments/assets/ac3e48e7-3508-452a-b6a3-eaf4e226e424" />
